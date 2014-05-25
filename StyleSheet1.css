@@ -1,0 +1,36 @@
+﻿body
+{Background-color:white;
+ font-family:"Bodoni MT", Garamond, "Goudy Stout";
+     background-color:Aqua;
+
+}
+
+#Sizing
+{
+    margin:0 auto;
+    width:965px;
+         background-color:white;
+         padding:100px 250px 500px 250px;
+
+    }
+img{padding-bottom:50px;}
+
+H1
+{
+    font-size:24px;
+    line-height:20px;
+    }
+    
+h3
+{
+    font-size:16px;
+    line-height:10px;
+
+    
+    }
+    
+p
+{
+    font-size:14px;
+    
+    }
